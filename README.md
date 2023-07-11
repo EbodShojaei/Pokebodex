@@ -1,5 +1,5 @@
 # Pokédex App
-### Pokedex
+### About
 
 This is a single-page web application that fetches and displays information about Pokemon from the PokeAPI. It allows users to browse and filter through a list of Pokemon based on their types. The project has been bundled using WebPack.
 <br>
