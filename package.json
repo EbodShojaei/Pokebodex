@@ -1,7 +1,7 @@
 {
   "name": "shojaeiebodcomp2537assignment3",
   "version": "1.0.0",
-  "description": "This is a single-page web application that fetches and displays information about Pokemon from the PokeAPI. It allows users to browse and filter through a list of Pokemon based on their types.\r <br>\r ##### Hosted (**[Link](https://pokebodex.netlify.app)**)\r ##### Video (**[Link](#)**)",
+  "description": "This is a single-page web application that fetches and displays information about Pokemon from the PokeAPI. It allows users to browse and filter through a list of Pokemon based on their types.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
