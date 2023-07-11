@@ -1,10 +1,10 @@
 # Pokédex App
-### COMP2537_Assignment3
+### Pokedex
 
-This is a single-page web application that fetches and displays information about Pokemon from the PokeAPI. It allows users to browse and filter through a list of Pokemon based on their types.
+This is a single-page web application that fetches and displays information about Pokemon from the PokeAPI. It allows users to browse and filter through a list of Pokemon based on their types. The project has been bundled using WebPack.
 <br>
 ##### Hosted (**[Link](https://pokebodex.netlify.app)**)
-##### Video (**[Link](#)**)
+##### Video (**[Link](https://youtu.be/sbvp--K2mAM)**)
 
 <br>
 
